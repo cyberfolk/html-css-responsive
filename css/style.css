@@ -142,8 +142,17 @@ img {
 }
 
 @media screen and (max-width: 480px) {
-    h1::after {
+    h1 {
         background-color: yellow;
-        content: " Query Mobile";
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    .lessons .col,
+    .steps .col,
+    .why-us .col {
+        width: 100%;
     }
 }
