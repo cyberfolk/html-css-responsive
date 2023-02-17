@@ -129,6 +129,19 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+@media screen and (min-width: 768px) {
+    h1 {
+        background-color: rgb(0, 255, 4);
+    }
+
+    .container {
+        max-width: 1140px;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     h1 {
         background-color: red;
