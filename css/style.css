@@ -130,9 +130,14 @@ img {
  ************************************************/
 
 @media screen and (max-width: 768px) {
-    h1::after {
+    h1 {
         background-color: red;
-        content: " Query Tablet";
+    }
+
+    .container {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
     }
 }
 
