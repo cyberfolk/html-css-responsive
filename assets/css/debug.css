@@ -1,52 +1,68 @@
 /* #region Debug */
+/* #region Grid */
+.debug .container {
+    background-color: yellow;
+}
+
+.debug .row {
+    background-color: greenyellow;
+}
+
+.debug [class^="col_"] {
+    background-color: aqua;
+}
+
+/* #endregion Grid */
+/* #region style */
 /* #region site_header */
-#site_header {
+.debug #site_header {
     height: var(--rl_debug_height);
 }
 
 /* #endregion site_header */
 /* #region site_main */
 /* #region banner */
-.banner {
+.debug .banner {
     height: var(--rl_debug_height);
 }
 
 /* #endregion banner */
 /* #region planning */
-.planning {
+.debug .planning {
     height: var(--rl_debug_height);
 }
 
 /* #endregion planning */
 /* #region testimonials */
-.testimonials {
+.debug .testimonials {
     height: var(--rl_debug_height);
 }
 
 /* #endregion testimonials */
 /* #region benefits */
-.benefits {
+.debug .benefits {
     height: var(--rl_debug_height);
 }
 
 /* #endregion benefits */
 /* #region about_us */
-.about_us {
+.debug .about_us {
     height: var(--rl_debug_height);
 }
 
 /* #endregion about_us */
 /* #region get_started */
-.get_started {
+.debug .get_started {
     height: var(--rl_debug_height);
 }
 
 /* #endregion get_started */
 /* #endregion site_main */
 /* #region site_footer */
-#site_footer {
+.debug #site_footer {
     height: var(--rl_debug_height);
 }
 
 /* #endregion site_footer */
+/* #endregion style */
 /* #endregion Debug */
