@@ -31,26 +31,20 @@ a:hover {
 }
 
 :root {
-    --rl_site_header_bg: #75eaff;
-    --rl_site_main_bg: #d7da20;
-    --rl_site_footer_bg: #39eb6c;
     --rl_debug_height: 600px;
     --rl_shadow: #9d9d9d;
     --rl_white: white;
     --rl_black: black;
     --rl_font: 'Fredoka', sans-serif;
-    --rl_btn_dark: #22272b;
-    --rl_btn_primary: #8ea0e0;
-    --rl_btn_light: #f7f7f6;
-    --rl_btn_lighter: white;
-    --rl_site_header_h: 70px;
-    --rl_site_footer_h: 70px;
     --icon-size: .8em;
     --gutter: .5em;
-    --rl_light: #0061ff;
-    --rl_light_primar: #B4D0E7;
-    --rl_lightgray: lightgray;
-    --rl_dark_secondary: #671435;
+
+    --rl_secondary: #0084fd;
+    --rl_primary: #9792e4;
+    --rl_light: #b5ddff;
+    --rl_dark: #333333;
+
+
 }
 
 /* #endregion Common Rules */
