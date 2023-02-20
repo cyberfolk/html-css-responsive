@@ -93,7 +93,7 @@
 
 /* #endregion Flex */
 
-/* #region Button-utility */
+/* #region Button */
 
 .btn_small {
     padding: 0.25rem 0.75rem;
@@ -120,9 +120,9 @@
     color: var(--rl_lighter)
 }
 
-.btn_primary {
+.btn_secondary {
     background-color: var(--rl_primary);
-    color: var(--rl_lighter);
+    color: var(--rl_white);
 }
 
 .btn {
@@ -131,6 +131,7 @@
     font-size: 0.8rem;
     font-weight: normal;
     text-decoration: none;
+    border-radius: 1rem;
     transition: filter 1s;
 }
 
@@ -143,7 +144,7 @@
     filter: drop-shadow(0 0 10px var(--rl_shadow)) invert(2%);
 }
 
-/* #endregion Button-utility */
+/* #endregion Button */
 
 /* #region Round_Check_Cross */
 
