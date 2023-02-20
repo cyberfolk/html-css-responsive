@@ -1,17 +1,30 @@
 /* #region Debug */
-.debug > #site_header {
-    height: var(--rl_debug_h);
-    background-color: var(rl_site_header_bg);
-}
+/* #region site_header */
 
-.debug > #site_main {
-    height: var(--rl_debug_h);
-    background-color: var(rl_site_main_bg);
-}
+/* #endregion site_header */
+/* #region site_main */
+/* #region banner */
 
-.debug > #site_footer {
-    height: var(--rl_debug_h);
-    background-color: var(--rl_site_footer_bg);
-}
+/* #endregion banner */
+/* #region planning */
+
+/* #endregion planning */
+/* #region testimonials */
+
+/* #endregion testimonials */
+/* #region benefits */
+
+/* #endregion benefits */
+/* #region about_us */
+
+/* #endregion about_us */
+/* #region get_started */
+
+/* #endregion get_started */
+
+/* #endregion site_main */
+/* #region site_footer */
+
+/* #endregion site_footer */
 
 /* #endregion Debug */

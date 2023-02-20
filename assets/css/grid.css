@@ -1,3 +1,4 @@
+/* #region Grid */
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -7,7 +8,6 @@
 }
 
 /* #region Container */
-
 .container {
     width: 80%;
     max-width: 1152px;
@@ -21,7 +21,6 @@
 }
 
 /* #endregion Container */
-
 /* #region col_X */
 .col_p100 {
     width: 100%;
@@ -428,3 +427,4 @@
 }
 
 /* #endregion col_lg_X */
+/* #endregion Grid */

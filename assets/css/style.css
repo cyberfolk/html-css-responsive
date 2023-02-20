@@ -1,13 +1,29 @@
-/* #endregion site_header */
+/* #region style */
+/* #region site_header */
 
 /* #endregion site_header */
 /* #region site_main */
+/* #region banner */
+
+/* #endregion banner */
+/* #region planning */
+
+/* #endregion planning */
+/* #region testimonials */
+
+/* #endregion testimonials */
+/* #region benefits */
+
+/* #endregion benefits */
+/* #region about_us */
+
+/* #endregion about_us */
+/* #region get_started */
+
+/* #endregion get_started */
 
 /* #endregion site_main */
 /* #region site_footer */
-#site_footer {
-    background-color: var(--rl_site_footer_bg);
-    height: var(--rl_site_footer_h);
-}
 
 /* #endregion site_footer */
+/* #endregion style */
