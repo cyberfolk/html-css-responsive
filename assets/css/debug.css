@@ -1,30 +1,52 @@
 /* #region Debug */
 /* #region site_header */
+#site_header {
+    height: var(--rl_debug_height);
+}
 
 /* #endregion site_header */
 /* #region site_main */
 /* #region banner */
+.banner {
+    height: var(--rl_debug_height);
+}
 
 /* #endregion banner */
 /* #region planning */
+.planning {
+    height: var(--rl_debug_height);
+}
 
 /* #endregion planning */
 /* #region testimonials */
+.testimonials {
+    height: var(--rl_debug_height);
+}
 
 /* #endregion testimonials */
 /* #region benefits */
+.benefits {
+    height: var(--rl_debug_height);
+}
 
 /* #endregion benefits */
 /* #region about_us */
+.about_us {
+    height: var(--rl_debug_height);
+}
 
 /* #endregion about_us */
 /* #region get_started */
+.get_started {
+    height: var(--rl_debug_height);
+}
 
 /* #endregion get_started */
-
 /* #endregion site_main */
 /* #region site_footer */
+#site_footer {
+    height: var(--rl_debug_height);
+}
 
 /* #endregion site_footer */
-
 /* #endregion Debug */
