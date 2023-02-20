@@ -1,4 +1,4 @@
-/* #region Common Rules */
+/* #region Common */
 * {
     margin: 0;
     padding: 0;
@@ -35,16 +35,13 @@ a:hover {
     --rl_shadow: #9d9d9d;
     --rl_white: white;
     --rl_black: black;
-    --rl_font: 'Fredoka', sans-serif;
+    --rl_font: 'PT Sans', sans-serif;
     --icon-size: .8em;
     --gutter: .5em;
-
     --rl_secondary: #0084fd;
     --rl_primary: #9792e4;
     --rl_light: #b5ddff;
     --rl_dark: #333333;
-
-
 }
 
-/* #endregion Common Rules */
+/* #endregion Common */
