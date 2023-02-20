@@ -1,0 +1,17 @@
+/* #region Debug */
+.debug > #site_header {
+    height: var(--rl_debug_h);
+    background-color: var(rl_site_header_bg);
+}
+
+.debug > #site_main {
+    height: var(--rl_debug_h);
+    background-color: var(rl_site_main_bg);
+}
+
+.debug > #site_footer {
+    height: var(--rl_debug_h);
+    background-color: var(--rl_site_footer_bg);
+}
+
+/* #endregion Debug */

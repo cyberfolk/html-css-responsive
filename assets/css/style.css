@@ -1,0 +1,13 @@
+/* #endregion site_header */
+
+/* #endregion site_header */
+/* #region site_main */
+
+/* #endregion site_main */
+/* #region site_footer */
+#site_footer {
+    background-color: var(--rl_site_footer_bg);
+    height: var(--rl_site_footer_h);
+}
+
+/* #endregion site_footer */
