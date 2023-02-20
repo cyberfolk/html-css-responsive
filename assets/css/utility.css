@@ -110,17 +110,22 @@
     text-align: center;
 }
 
-.btn_light {
-    background-color: var(--rl_light);
-    color: var(--rl_dark)
-}
-
 .btn_dark {
     background-color: var(--rl_dark);
     color: var(--rl_lighter)
 }
 
 .btn_secondary {
+    background-color: var(--rl_secondary);
+    color: var(--rl_white);
+}
+
+.btn_light {
+    background-color: var(--rl_light);
+    color: var(--rl_primary);
+}
+
+.btn_primary {
     background-color: var(--rl_primary);
     color: var(--rl_white);
 }
@@ -135,10 +140,7 @@
     transition: filter 1s;
 }
 
-.btn_light {
-    background-color: var(--rl_light);
-    color: var(--rl_primary);
-}
+
 
 .btn:hover {
     filter: drop-shadow(0 0 10px var(--rl_shadow)) invert(2%);
