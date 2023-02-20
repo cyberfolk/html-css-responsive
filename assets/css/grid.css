@@ -9,16 +9,12 @@
 
 /* #region Container */
 .container {
-    width: 80%;
+    width: 90%;
     max-width: 1152px;
     margin: auto;
 }
 
-.container_sm {
-    width: 40%;
-    max-width: 1152px;
-    margin: auto;
-}
+
 
 /* #endregion Container */
 /* #region col_X */
@@ -157,6 +153,12 @@
 /* #endregion col_X */
 /* #region col_md_X */
 @media screen and (min-width: 768px) {
+    .container_md {
+        width: 40%;
+        max-width: 1152px;
+        margin: auto;
+    }
+
     .col_md_p100 {
         width: 100%;
         /* Se scommento la riga seguente devo scommentare anche la relativa parte in row */
