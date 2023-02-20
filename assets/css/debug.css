@@ -27,9 +27,9 @@
 /* #endregion Grid */
 /* #region style */
 /* #region site_header */
-.debug #site_header {
+/* .debug #site_header {
     padding: 1rem;
-}
+} */
 
 /* #endregion site_header */
 /* #region site_main */
@@ -40,7 +40,7 @@
 
 /* #endregion banner */
 /* #region planning */
-.debug .planning {
+.debug #planning {
     padding: 1rem;
 }
 
@@ -51,20 +51,20 @@
 }
 
 /* #endregion testimonials */
-/* #region benefits */
-.debug .benefits {
+/* #region features */
+.debug #features {
     padding: 1rem;
 }
 
-/* #endregion benefits */
+/* #endregion features */
 /* #region about_us */
-.debug .about_us {
+.debug #about_us {
     padding: 1rem;
 }
 
 /* #endregion about_us */
 /* #region get_started */
-.debug .get_started {
+.debug #get_started {
     padding: 1rem;
 }
 

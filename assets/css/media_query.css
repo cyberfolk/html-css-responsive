@@ -1,0 +1,25 @@
+/* #region media query */
+/* #endregion media query */
+
+@media screen and (min-width: 768px) {}
+
+@media screen and (min-width: 1200px) {
+    #site_header .menu .list_inline {
+        /* Override locale di una classe in utility */
+        gap: 2rem;
+        display: flex;
+    }
+
+    #site_header .menu .btn {
+        /* Override locale di una classe in utility */
+        display: block;
+    }
+
+    #site_header .menu .fa-bars {
+        color: white;
+        font-size: 2rem;
+        display: none;
+    }
+}
+
+/* #endregion media query */
