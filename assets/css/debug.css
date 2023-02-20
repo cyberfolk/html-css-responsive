@@ -22,7 +22,6 @@
 .debug [class^="col_"] {
     background-color: aqua;
     padding: 1rem;
-    height: 1rem;
 }
 
 /* #endregion Grid */
