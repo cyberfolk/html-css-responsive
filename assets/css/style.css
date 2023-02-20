@@ -50,6 +50,13 @@
 
 .about_us .circletag.t_4 {
     background-image: url("../img/about.jpg");
+    position: relative;
+}
+
+.about_us .fa-quote-left {
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 
 /* #endregion about_us */
