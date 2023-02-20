@@ -138,9 +138,9 @@
     text-decoration: none;
     border-radius: 1rem;
     transition: filter 1s;
+    /* Per evitare che il bottoni assuma una width 100% */
+    display: inline-block;
 }
-
-
 
 .btn:hover {
     filter: drop-shadow(0 0 10px var(--rl_shadow)) invert(2%);
