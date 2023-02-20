@@ -135,9 +135,9 @@
     transition: filter 1s;
 }
 
-.btn_white {
-    background-color: var(--rl_white);
-    color: var(--rl_black);
+.btn_light {
+    background-color: var(--rl_light);
+    color: var(--rl_primary);
 }
 
 .btn:hover {
