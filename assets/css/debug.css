@@ -2,69 +2,74 @@
 /* #region Grid */
 .debug .container {
     background-color: yellow;
+    padding: 1rem;
 }
 
 .debug .container_sm {
     background-color: orangered;
+    padding: 1rem;
 }
 
 .debug .row {
-    background-color: greenyellow;
+    background-color: brown;
+    padding: 1rem;
 }
 
 .debug [class^="col_"] {
     background-color: aqua;
+    padding: 1rem;
+    height: 1rem;
 }
 
 /* #endregion Grid */
 /* #region style */
 /* #region site_header */
 .debug #site_header {
-    height: var(--rl_debug_height);
+    padding: 1rem;
 }
 
 /* #endregion site_header */
 /* #region site_main */
 /* #region banner */
 .debug .banner {
-    height: var(--rl_debug_height);
+    padding: 1rem;
 }
 
 /* #endregion banner */
 /* #region planning */
 .debug .planning {
-    height: var(--rl_debug_height);
+    padding: 1rem;
 }
 
 /* #endregion planning */
 /* #region testimonials */
 .debug .testimonials {
-    height: var(--rl_debug_height);
+    padding: 1rem;
 }
 
 /* #endregion testimonials */
 /* #region benefits */
 .debug .benefits {
-    height: var(--rl_debug_height);
+    padding: 1rem;
 }
 
 /* #endregion benefits */
 /* #region about_us */
 .debug .about_us {
-    height: var(--rl_debug_height);
+    padding: 1rem;
 }
 
 /* #endregion about_us */
 /* #region get_started */
 .debug .get_started {
-    height: var(--rl_debug_height);
+    padding: 1rem;
 }
 
 /* #endregion get_started */
 /* #endregion site_main */
 /* #region site_footer */
 .debug #site_footer {
-    height: var(--rl_debug_height);
+    padding: 1rem;
 }
 
 /* #endregion site_footer */
