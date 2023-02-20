@@ -1,4 +1,8 @@
 /* #region Debug */
+* {
+    border: 1px dashed black;
+}
+
 /* #region Grid */
 .debug .container {
     background-color: yellow;
