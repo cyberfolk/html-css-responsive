@@ -23,6 +23,27 @@
     background-color: var(--rl_white);
 }
 
+.testimonials .circletag {
+    width: 100%;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+}
+
+.testimonials .circletag.t_1 {
+    background-image: url("../img/testimonial1.jpg");
+}
+
+.testimonials .circletag.t_2 {
+    background-image: url("../img/testimonial2.jpg");
+}
+
+.testimonials .circletag.t_3 {
+    background-image: url("../img/testimonial3.jpg");
+}
+
+
 /* #endregion testimonials */
 /* #region benefits */
 .benefits {
