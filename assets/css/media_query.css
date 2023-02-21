@@ -50,7 +50,8 @@
         max-width: 100%;
     }
 
-    .get_started .container {
+    .get_started .container,
+    #site_footer .container {
         width: 60%;
     }
 
@@ -115,6 +116,11 @@
     .get_started .container {
         width: 40%;
     }
+
+    #site_footer .container {
+        width: 30%;
+    }
+
 
 }
 

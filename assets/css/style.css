@@ -319,5 +319,19 @@
     background-color: var(--rl_dark);
 }
 
+#site_footer p {
+    font-size: 0.8rem;
+    text-align: center;
+    color: var(--rl_white);
+    margin-bottom: 2rem;
+}
+
+#site_footer a {
+    color: var(--rl_primary);
+    text-decoration: underline;
+}
+
+
+
 /* #endregion site_footer */
 /* #endregion style */
