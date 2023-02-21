@@ -86,23 +86,23 @@
     font-size: 2rem;
 }
 
-#planning .col_12:nth-child(1) p {
+#planning .strategy p {
     font-size: 0.9rem;
     line-height: 1.5rem;
 }
 
-#planning .col_12:nth-child(1) img {
+#planning .strategy img {
     text-align: center;
 }
 
-
-#planning .col_12:nth-child(2) .card {
+#planning .development {
+    padding: 2rem 1rem;
     background-color: white;
     border-radius: 5rem;
     text-align: center;
 }
 
-#planning .col_12:nth-child(2) p {
+#planning .development p {
     line-height: 1.5rem;
     margin-bottom: 2rem;
 }
@@ -111,12 +111,12 @@
     margin: 1rem 0;
 }
 
-#planning .col_12:nth-child(2) p {
+#planning .development p {
     font-style: italic;
 }
 
 #planning .circle-around {
-    /* override */
+    /* Override locale di una classe in utility */
     background-color: var(--rl_primary);
     width: 3rem;
     height: 3rem;

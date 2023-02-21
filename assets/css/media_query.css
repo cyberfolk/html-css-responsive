@@ -115,8 +115,15 @@
     /* #endregion banner */
     /* #region planning */
     #planning .container {
-        padding-right: 8rem;
-        padding-left: 8rem;
+        padding: 8rem 8rem 3rem 8rem;
+    }
+
+    #planning .row {
+        margin: 0 -2rem;
+    }
+
+    #planning .col_12 {
+        padding: 0 2rem;
     }
 
     #planning h2 {
@@ -128,7 +135,7 @@
         align-self: flex-end;
     }
 
-    #planning .col_12:nth-child(2) img {
+    #planning .development img {
         max-width: 70%;
     }
 
