@@ -21,6 +21,20 @@
     #planning h3 {
         font-size: 1.5rem;
     }
+
+    #testimonials .foto {
+        padding: 0;
+    }
+
+    #testimonials .card {
+        padding-bottom: 3rem;
+    }
+
+    #testimonials .testo {
+        padding-top: 1rem;
+        padding-left: 2rem;
+        text-align: left;
+    }
 }
 
 @media screen and (min-width: 1200px) {
@@ -61,6 +75,13 @@
 
     #planning .col_12:nth-child(2) img {
         max-width: 70%;
+    }
+
+    #testimonials .testo {
+        font-size: 0.9rem;
+        padding-top: 3rem;
+        padding-left: 2rem;
+        text-align: left;
     }
 }
 
