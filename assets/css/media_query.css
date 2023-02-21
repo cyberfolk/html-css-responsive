@@ -34,15 +34,15 @@
 
     /* #endregion planning */
     /* #region testimonials */
-    #testimonials .foto {
-        padding: 0;
-    }
-
     #testimonials .card {
         padding-bottom: 3rem;
     }
 
-    #testimonials .testo {
+    #testimonials .photo {
+        padding: 0;
+    }
+
+    #testimonials .text {
         padding-top: 1rem;
         padding-left: 2rem;
         text-align: left;
@@ -141,7 +141,7 @@
 
     /* #endregion planning */
     /* #region testimonials */
-    #testimonials .testo {
+    #testimonials .text {
         font-size: 0.9rem;
         padding-top: 3rem;
         padding-left: 2rem;

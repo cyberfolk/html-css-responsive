@@ -127,6 +127,10 @@
 
 /* #endregion planning */
 /* #region testimonials */
+#testimonials {
+    background-color: var(--rl_white);
+}
+
 #testimonials .container {
     text-align: center;
 }
@@ -153,10 +157,15 @@
     background-color: var(--rl_primary);
     border-radius: 3rem;
     color: white;
+    padding: 2rem 1rem;
 }
 
-#testimonials {
-    background-color: var(--rl_white);
+#testimonials .photo {
+    padding: 0 2rem;
+}
+
+#testimonials .text {
+    padding-top: 1rem;
 }
 
 #testimonials .name {
@@ -175,7 +184,6 @@
 #testimonials .circletag.t_3 {
     background-image: url("../img/testimonial3.jpg");
 }
-
 
 /* #endregion testimonials */
 /* #region features */
