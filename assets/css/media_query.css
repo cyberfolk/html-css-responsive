@@ -2,8 +2,16 @@
 /* #endregion media query */
 
 @media screen and (min-width: 768px) {
+    .container {
+        width: 90%;
+    }
+
     .banner img {
         max-width: 50%;
+    }
+
+    #planning .container {
+        padding-top: 8rem;
     }
 
     #planning h2 {
