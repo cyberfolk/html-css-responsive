@@ -40,6 +40,38 @@
     background-color: var(--rl_white);
 }
 
+.banner .row.outer {
+    margin: 0 -2rem;
+}
+
+.banner [class^="col_"] {
+    padding: 2rem 2rem 0 2rem;
+}
+
+.banner .col_12.col_md_8 > .card,
+.banner .col_12.col_md_4 > .card {
+    background-color: var(--rl_light);
+    border-radius: 1rem;
+}
+
+.banner .col_12.col_md_4 > .card {
+    padding: 2rem;
+}
+
+.banner h3 {
+    color: var(--rl_secondary);
+    margin-bottom: 2rem;
+    font-size: 1.3rem;
+}
+
+.banner p {
+    font-weight: 600;
+    color: rgb(82, 82, 82);
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+    margin-bottom: 2rem;
+}
+
 /* #endregion banner */
 /* #region planning */
 #planning {
