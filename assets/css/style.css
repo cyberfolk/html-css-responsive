@@ -25,6 +25,9 @@
 #site_header .menu .btn {
     /* Override locale di una classe in utility */
     display: none;
+    letter-spacing: normal;
+    font-weight: normal;
+    padding: 0.5rem 1rem;
 }
 
 #site_header .menu .fa-bars {
@@ -200,7 +203,7 @@
 
 #features .card {
     background-color: white;
-    padding: 2rem 2rem 1rem 2rem;
+    padding: 2rem;
     border-radius: 1rem;
 }
 
@@ -213,14 +216,14 @@
 #features h4 {
     color: var(--rl_primary);
     font-size: 1.5rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 #features p {
     color: gray;
     font-size: 0.9rem;
     line-height: 1.5rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
 }
 
 
