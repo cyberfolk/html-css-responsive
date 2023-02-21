@@ -1,5 +1,9 @@
 /* #region Utilities */
 
+.txt_a_c {
+    text-align: center;
+}
+
 .circletag {
     width: 100%;
     aspect-ratio: 1/1;

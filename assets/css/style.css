@@ -40,7 +40,6 @@
     background-color: var(--rl_white);
 }
 
-
 .banner .card {
     background-color: var(--rl_light);
     border-radius: 1rem;
@@ -62,6 +61,12 @@
 }
 
 .banner .btn {
+    margin-bottom: 2rem;
+}
+
+.banner i {
+    color: var(--rl_secondary);
+    font-size: 4rem;
     margin-bottom: 2rem;
 }
 
