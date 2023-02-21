@@ -129,7 +129,7 @@
 .col_4 {
     width: calc((100% / 12) * 4);
     /* Se scommento la riga seguente devo scommentare anche la relativa parte in row */
-    padding: 1rem;
+    /* padding: 1rem; */
 }
 
 .col_3 {
@@ -264,7 +264,7 @@
     .col_md_4 {
         width: calc((100% / 12) * 4);
         /* Se scommento la riga seguente devo scommentare anche la relativa parte in row */
-        padding: 1rem;
+        /* padding: 1rem; */
     }
 
     .col_md_3 {
@@ -406,7 +406,7 @@
     .col_lg_4 {
         width: calc((100% / 12) * 4);
         /* Se scommento la riga seguente devo scommentare anche la relativa parte in row */
-        padding: 1rem;
+        /* padding: 1rem; */
     }
 
     .col_lg_3 {

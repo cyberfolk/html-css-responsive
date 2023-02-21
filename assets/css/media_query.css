@@ -1,7 +1,11 @@
 /* #region media query */
 /* #endregion media query */
 
-@media screen and (min-width: 768px) {}
+@media screen and (min-width: 768px) {
+    .banner img {
+        max-width: 50%;
+    }
+}
 
 @media screen and (min-width: 1200px) {
     #site_header .menu .list_inline {
@@ -19,6 +23,10 @@
         color: white;
         font-size: 2rem;
         display: none;
+    }
+
+    .banner img {
+        max-width: 100%;
     }
 }
 
