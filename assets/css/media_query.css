@@ -57,13 +57,17 @@
         padding-right: 1rem;
     }
 
-    #about_us .foto {
+    #about_us .photo {
         padding-right: 2rem;
         padding-left: 1rem;
     }
 
-    #about_us .circletag {
+    #about_us .pic {
         max-width: 100%;
+    }
+
+    #about_us .fa-quote-left {
+        font-size: 3.5rem;
     }
 
     /* #endregion about_us */
@@ -152,6 +156,10 @@
     /* #region features */
     /* #endregion features */
     /* #region about_us */
+    #about_us .fa-quote-left {
+        font-size: 5.5rem;
+    }
+
     /* #endregion about_us */
     /* #region get_started */
     .get_started .container {

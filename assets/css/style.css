@@ -167,6 +167,13 @@
     padding: 0 2rem;
 }
 
+#testimonials img {
+    height: 100%;
+    position: absolute;
+    left: 0%
+}
+
+
 #testimonials .text {
     padding-top: 1rem;
 }
@@ -174,18 +181,6 @@
 #testimonials .name {
     font-size: 1.2rem;
     font-weight: 700;
-}
-
-#testimonials .circletag.t_1 {
-    background-image: url("../img/testimonial1.jpg");
-}
-
-#testimonials .circletag.t_2 {
-    background-image: url("../img/testimonial2.jpg");
-}
-
-#testimonials .circletag.t_3 {
-    background-image: url("../img/testimonial3.jpg");
 }
 
 /* #endregion testimonials */
@@ -242,10 +237,10 @@
     margin-bottom: 2rem;
 }
 
-#about_us .circletag {
-    background-image: url("../img/about.jpg");
+#about_us .pic {
     position: relative;
     max-width: 60%;
+
 }
 
 #about_us .fa-quote-left {
@@ -254,6 +249,8 @@
     position: absolute;
     top: 0;
     right: 0;
+    line-height: 60%;
+
 }
 
 #about_us p {
