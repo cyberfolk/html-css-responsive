@@ -76,6 +76,54 @@
     background-color: var(--rl_primary);
 }
 
+#planning .col_12:nth-child(1) {
+    color: white;
+}
+
+#planning h2 {
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+#planning .col_12:nth-child(1) p {
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+}
+
+#planning .col_12:nth-child(1) img {
+    text-align: center;
+}
+
+
+#planning .col_12:nth-child(2) .card {
+    background-color: white;
+    border-radius: 5rem;
+    text-align: center;
+}
+
+#planning .col_12:nth-child(2) p {
+    line-height: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+#planning h3 {
+    margin: 1rem 0;
+}
+
+#planning .col_12:nth-child(2) p {
+    font-style: italic;
+}
+
+#planning .circle-around {
+    /* override */
+    background-color: var(--rl_primary);
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    line-height: 3rem;
+    color: black;
+}
+
 /* #endregion planning */
 /* #region testimonials */
 #testimonials {

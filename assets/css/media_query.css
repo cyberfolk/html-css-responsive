@@ -5,6 +5,14 @@
     .banner img {
         max-width: 50%;
     }
+
+    #planning h2 {
+        font-size: 4rem;
+    }
+
+    #planning h3 {
+        font-size: 1.5rem;
+    }
 }
 
 @media screen and (min-width: 1200px) {
@@ -28,6 +36,25 @@
     .banner img {
         max-width: 100%;
     }
+
+    #planning .container {
+        padding-right: 8rem;
+        padding-left: 8rem;
+    }
+
+    #planning h2 {
+        font-size: 2rem;
+        margin-top: 8rem;
+    }
+
+    #planning .col_12:nth-child(2) {
+        align-self: flex-end;
+    }
+
+    #planning .col_12:nth-child(2) img {
+        max-width: 70%;
+    }
 }
+
 
 /* #endregion media query */
