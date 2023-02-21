@@ -127,6 +127,34 @@
 
 /* #endregion planning */
 /* #region testimonials */
+#testimonials .container {
+    text-align: center;
+}
+
+#testimonials h2 {
+    font-size: 1.1rem;
+    font-weight: 100;
+    margin-bottom: 2rem;
+}
+
+#testimonials h3 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: var(--rl_primary);
+}
+
+#testimonials p {
+    font-size: 1.2rem;
+    line-height: 2rem;
+    margin-bottom: 2rem;
+}
+
+#testimonials .card {
+    background-color: var(--rl_primary);
+    border-radius: 3rem;
+    color: white;
+}
+
 #testimonials {
     background-color: var(--rl_white);
 }
