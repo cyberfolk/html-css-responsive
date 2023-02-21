@@ -35,6 +35,20 @@
         padding-left: 2rem;
         text-align: left;
     }
+
+    #about_us .testo {
+        padding-left: 2rem;
+        padding-right: 1rem;
+    }
+
+    #about_us .foto {
+        padding-right: 2rem;
+        padding-left: 1rem;
+    }
+
+    #about_us .circletag {
+        max-width: 100%;
+    }
 }
 
 @media screen and (min-width: 1200px) {
