@@ -49,6 +49,20 @@
     #about_us .circletag {
         max-width: 100%;
     }
+
+    .get_started .container {
+        width: 60%;
+    }
+
+    .get_started h3 {
+        font-size: 2rem;
+    }
+
+    .get_started h4 {
+        font-size: 4rem;
+    }
+
+
 }
 
 @media screen and (min-width: 1200px) {
@@ -97,6 +111,11 @@
         padding-left: 2rem;
         text-align: left;
     }
+
+    .get_started .container {
+        width: 40%;
+    }
+
 }
 
 

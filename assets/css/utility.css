@@ -133,7 +133,7 @@
 }
 
 .btn_light {
-    background-color: var(--rl_light);
+    background-color: var(--rl_white);
     color: var(--rl_primary);
 }
 
@@ -152,7 +152,7 @@
     border: none;
     font-size: 0.9rem;
     font-weight: 600;
-    letter-spacing: .2rem;
+    letter-spacing: .1rem;
     text-decoration: none;
     border-radius: 1rem;
     transition: filter 1s;
