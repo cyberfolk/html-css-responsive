@@ -225,16 +225,45 @@
     background-color: var(--rl_white);
 }
 
+#about_us h2 {
+    font-size: 3rem;
+    color: var(--rl_primary);
+    margin: 2rem 0;
+}
+
 #about_us .circletag.t_4 {
     background-image: url("../img/about.jpg");
     position: relative;
+    max-width: 60%;
 }
 
 #about_us .fa-quote-left {
+    color: var(--rl_primary);
+    font-size: 3rem;
     position: absolute;
     top: 0;
     right: 0;
 }
+
+#about_us p {
+    line-height: 2rem;
+    margin-bottom: 2rem;
+}
+
+#about_us .quote {
+    font-size: 1.5rem;
+    color: var(--rl_primary);
+    font-weight: bold;
+    line-height: 2rem;
+    margin: 1rem 0;
+}
+
+#about_us .btn {
+    padding: 0.5rem 1rem;
+    font-weight: normal;
+    letter-spacing: normal;
+}
+
 
 /* #endregion about_us */
 /* #region get_started */
