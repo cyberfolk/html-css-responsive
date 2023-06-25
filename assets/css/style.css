@@ -73,6 +73,10 @@
     margin-bottom: 2rem;
 }
 
+.banner img {
+    max-width: 100%;
+}
+
 /* #endregion banner */
 /* #region planning */
 #planning {
@@ -128,6 +132,10 @@
     color: black;
 }
 
+#planning img {
+    max-width: 100%;
+}
+
 /* #endregion planning */
 /* #region testimonials */
 #testimonials {
@@ -166,13 +174,6 @@
 #testimonials .photo {
     padding: 0 2rem;
 }
-
-#testimonials img {
-    height: 100%;
-    position: absolute;
-    left: 0%
-}
-
 
 #testimonials .text {
     padding-top: 1rem;
