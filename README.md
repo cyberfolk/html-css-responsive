@@ -2,7 +2,7 @@
 
 **Initial commit**: 20/02/23
 
-**Tecnologie:** html, css e @media-query.
+**Tecnologie:** HTML, CSS e @media-query.
 
 📱 🖥️ Questo è il mio primo approccio con i layout responsive, sempre per Boolean!
 
