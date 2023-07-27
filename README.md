@@ -11,7 +11,7 @@ In questi esercizi usando le media-query e un approccio Mobile First, ho creato 
 🖇️ Repository:
 https://github.com/cyberfolk/html-css-responsive
 
-## In allegato gli screenshot del secondo esercizio
+## Screenshot dell'esercizio [2-advanced](/2-advanced)
 
 <table cellpadding="0">
   <tr style="padding: 0">
