@@ -1,4 +1,4 @@
-# Responsive-layout
+# Responsive 2-advanced
 
 **Initial commit**: 20/02/23
 
