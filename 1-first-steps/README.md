@@ -1,4 +1,4 @@
-# Responsive-wannabe
+# Responsive 1-first-steps
 
 **Initial commit**: 17/02/23
 
