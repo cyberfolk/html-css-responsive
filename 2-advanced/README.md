@@ -13,9 +13,6 @@ In questo esercizio per evitare che il file style.css diventase troppo grande ho
 -   In **debug.css** sono contenute le classi css che mi hanno aiutato per fare il layout a blocchi colorati.
 -   E poi ci sono gli altri fogli di stile come **utility.css**, **common.css** e **style.css**
 
-🖇️ Repository:
-https://github.com/cyberfolk/html-css-responsive-layout
-
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top" align="center" width="33%">
