@@ -1,4 +1,4 @@
-# Responsive-wannabe
+# html-css Responsive
 
 **Initial commit**: 17/02/23
 
