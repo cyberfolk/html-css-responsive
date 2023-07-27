@@ -4,8 +4,6 @@
 
 **Tecnologie:** HTML, CSS e @media-query.
 
-📱 🖥️ Questo è il mio primo esercizio con i layout responsive!
-
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top" width="33%">

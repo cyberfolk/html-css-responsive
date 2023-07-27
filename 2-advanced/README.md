@@ -4,8 +4,6 @@
 
 **Tecnologie:** HTML, CSS e @media-query.
 
-📱 🖥️ Questo è il mio secondo approccio con i layout responsive, sempre per Boolean!
-
 In questo esercizio per evitare che il file style.css diventase troppo grande ho deciso di suddividerlo per argomenti in file diversi.
 
 -   In **media_query.css** è contenuta la logica responsive.
