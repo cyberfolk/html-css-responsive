@@ -4,28 +4,24 @@
 
 **Tecnologie:** HTML, CSS e @media-query.
 
-📱 🖥️ In questa repo sono caricati i miei primi approcci con i layout responsive!
+**Info**:📱 🖥️ My first approaches with responsive layouts are uploaded to this repository!
+In these exercises using media queries and a Mobile First approach, I created a layout capable of adapting to the dimensions of various devices... at the beginning, it seemed complicated, but after doing it I can assure you that there was no magic, that would come later with Bootstrap 😉
 
-In questi esercizi usando le media-query e un approccio Mobile First, ho creato un layout capace di adattarsi alle dimensioni di vari device... all'inizio mi sembrava complicato, ma dopo averlo fatto vi posso assicurare che non c'è stata nessuna magia, quella arriverà dopo con Bootrap 😉
-
-🖇️ Repository:
-https://github.com/cyberfolk/html-css-responsive
-
-## Screenshot dell'esercizio [2-advanced](/2-advanced)
+## Screenshot of [2-advanced](/2-advanced) exercise
 
 <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top" align="center" width="33%">
         <h2 >Desktop</h2>
-        <img src="./2-advanced/screencapture/desktop.png" width="90%"/>
+        <img src="./2-advanced/screencapture/desktop.png" width="95%"/>
     </td>
     <td valign="top" align="center" width="33%">
         <h2>Tablet</h2>
-        <img src="./2-advanced/screencapture/tablet.png" width="90%"/>
+        <img src="./2-advanced/screencapture/tablet.png" width="95%"/>
     </td>
     <td valign="top" align="center" width="33%">
         <h2>Mobile</h2>
-        <img src="./2-advanced/screencapture/mobile.png" width="90%"/>
+        <img src="./2-advanced/screencapture/mobile.png" width="95%"/>
     </td>
   </tr>
 </table>
